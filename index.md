@@ -7,3 +7,10 @@ $git init
 created an empty git repo in home/nandy/.git
 
 ```
+## creating task list
+
+- [x] Create account.
+- [ ] create repo
+- [ ] create pull request
+- [ ] merge request.
+
